@@ -57,17 +57,6 @@ The solution was designed to support website hosting, product image storage, use
 
 ![Architecture Diagram](architecture-diagram.png)
 
-## Screenshots
-
-Add screenshots of:
-
-* IAM Users
-* S3 Bucket
-* EC2 Instance
-* EBS Volume
-* Load Balancer
-* Auto Scaling Group
-* Running Website
 
 ## Outcome
 
